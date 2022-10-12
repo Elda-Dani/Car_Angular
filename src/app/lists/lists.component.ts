@@ -9,6 +9,8 @@ export class ListsComponent implements OnInit {
 
   constructor() { }
 
+carData:any={}
+
   ngOnInit(): void {
   }
 
